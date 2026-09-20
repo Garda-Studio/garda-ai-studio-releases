@@ -4,7 +4,7 @@
 
 By [Garda Studio](https://garda-studio.com).
 
-[Product overview](https://garda-studio.com/products/garda-ai) · [Releases](../../releases) · [Report an issue](../../issues) · [Support](mailto:support@garda-studio.com)
+[Product overview](https://garda-studio.com/products/garda-ai) · [Releases](https://github.com/Garda-Studio/garda-ai-studio-releases/releases) · [Report an issue](https://github.com/Garda-Studio/garda-ai-studio-releases/issues) · [Support](mailto:support@garda-studio.com)
 
 ## About
 
