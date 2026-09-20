@@ -1,3 +1,5 @@
+<p align="center"><img src="https://garda-studio.com/product-icons/garda-desktop.png" width="88" height="88" alt=""></p>
+
 # Garda AI Studio
 
 **A desktop workspace for structured AI-assisted development.**
