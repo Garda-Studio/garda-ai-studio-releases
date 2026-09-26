@@ -1,16 +1,16 @@
 <p align="center"><img src="https://garda-studio.com/product-icons/garda-desktop.png" width="88" height="88" alt=""></p>
 
-# Garda AI Studio
+# Garda AI Desktop
 
 **A desktop workspace for structured AI-assisted development.**
 
 By [Garda Studio](https://garda-studio.com).
 
-[Product overview](https://garda-studio.com/products/garda-ai) · [Releases](https://github.com/Garda-Studio/garda-ai-studio-releases/releases) · [Report an issue](https://github.com/Garda-Studio/garda-ai-studio-releases/issues) · [Support](mailto:support@garda-studio.com)
+[Product overview](https://garda-studio.com/products/garda-ai) · [Releases](https://github.com/Garda-Studio/garda-ai-desktop-releases/releases) · [Report an issue](https://github.com/Garda-Studio/garda-ai-desktop-releases/issues) · [Support](mailto:support@garda-studio.com)
 
 ## About
 
-Garda AI Studio brings coding-agent sessions, project context, workflow checks, reviews, and an auditable task history into a desktop workspace.
+Garda AI Desktop brings coding-agent sessions, project context, workflow checks, reviews, and an auditable task history into a desktop workspace.
 
 This repository is the **public product and release hub**, not the application's source repository. Application source remains private.
 
@@ -18,7 +18,7 @@ This repository is the **public product and release hub**, not the application's
 
 The application is in development. No downloadable builds have been published here yet. When a build is ready, its release notes will identify supported platforms, installation steps, known limitations, and applicable license terms.
 
-The Garda family includes an [open-source CLI](https://github.com/Garda-Studio/garda-agent-orchestrator), a free Studio offering, and a planned paid corporate offering. Free availability does not imply an open-source license or unrestricted commercial use.
+The Garda family includes the open-source [Garda Agent Orchestrator](https://github.com/Garda-Studio/garda-agent-orchestrator), a free Garda AI Desktop edition, and a planned paid corporate edition. Free availability does not imply an open-source license or unrestricted commercial use.
 
 ## Feedback and security
 
